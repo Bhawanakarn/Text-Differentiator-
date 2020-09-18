@@ -1,2 +1,3 @@
 # Text-Differentiator-
-Python programming done using dynamic programming
+This is a python program where you provide 2 text files, and it would tell the differences betweeb both the files.
+It uses the dynabmic programming approach and 2-d matrix to do the string comparison.
